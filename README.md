@@ -1,4 +1,4 @@
-# AI Resume Intelligence 🚀
+# AI Resume Intelligence 
 
 AI Resume Intelligence is a Python-based project developed using Machine Learning and Streamlit. It helps users analyze their resumes, evaluate their skills, and understand how well their profiles match selected job roles and specific job descriptions.
 
